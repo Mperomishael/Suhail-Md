@@ -6,31 +6,31 @@
 //                                                                                                      // 
 //                                         Ｖ：1．2．8                                                   // 
 //                                                                                                      // 
-//            ███████╗██╗   ██╗██╗  ██╗ █████╗ ██╗██╗         ███╗   ███╗██████╗                        //
-//            ██╔════╝██║   ██║██║  ██║██╔══██╗██║██║         ████╗ ████║██╔══██╗                       //
-//            ███████╗██║   ██║███████║███████║██║██║         ██╔████╔██║██║  ██║                       //
-//            ╚════██║██║   ██║██╔══██║██╔══██║██║██║         ██║╚██╔╝██║██║  ██║                       //
-//            ███████║╚██████╔╝██║  ██║██║  ██║██║███████╗    ██║ ╚═╝ ██║██████╔╝                       //
-//            ╚══════╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚══════╝    ╚═╝     ╚═╝╚═════╝                        //
+//            ███████   ██████╗   █████  ███████  ██████  ███████   ██    ██                      //
+//            ██    ██  ██      █  ██   ██   ██     ██       ██         ██    ██                     //
+//            ███████.  ███████   ██   ██   ██     ██████  ██         ███████                     //
+//            ██         ██    ██.  ██  ██   ██     ██       ██         ██    ██                    //
+//            ██         ██    ███   ████.   ██     ███████  ███████  ██    ██                      //
+//                       ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚══════╝    ╚═╝     ╚═╝╚═                     //
 //                                                                                                      //
 //                                                                                                      //
 //                                                                                                      //
 //══════════════════════════════════════════════════════════════════════════════════════════════════════//
 *```
-   * @project_name : Suhail-Md
-   * @author : Suhail Tech Info
+   * @project_name : PROTECH-Md
+   * @author : PROTECH Tech Info
    * @youtube : https://www.youtube.com/@SuhailTechInfo
-   * @description : Suhail-Md ,A Multi-functional whatsapp user bot.
+   * @description : PROTECH-Md ,A Multi-functional whatsapp user bot.
    * @version 1.2.8
 *
 * 
-   * Created By Suhail Tech Info.
-   * © 2024 Suhail-Md.
+   * Created By PROTECH Tech Info.
+   * © 2024 PROTECH-Md.
 */
 
 
 
-let Suhail_Md = "Suhail MD Whatsapp bot md"
+let PROTECH_Md = "PROTECH MD Whatsapp bot md"
 let {smd , prefix,Config} = require("../lib")
 
 // ============================ CHATS SETTINGS ============================ 
