@@ -40,7 +40,7 @@ module.exports = {
   readmessage: process.env.READ_MESSAGE || 'false',   //  | 'false' | 'true' | 
   readcmds: process.env.READ_COMMANDS || 'false',    //  | 'false' | 'true' | 
   HANDLERS: process.env.PREFIX || '.',
-  warncount: process.env.WARN_COUNT || '3',
+  warncount: process.env.WARN_COUNT || '2',
   disablepm: process.env.DISABLE_PM || "true",
   MsgsInLog: process.env.MSGS_IN_LOG || 'false', // "true"  to see messages , "log" to open logs messages , "false" to hide logs messages
   // pmMsgsInLog:process.env.PM_MSGS_IN_LOGS ||'true',
